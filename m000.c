@@ -28,7 +28,6 @@ int pitagorean (char *s)
   return 0;
 }
 
-/* Do not edit function main. */
 
 int main (int argc, char **argv)
 {
